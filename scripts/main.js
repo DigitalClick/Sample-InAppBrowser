@@ -34,7 +34,7 @@ Application.prototype = {
 	},
  
 	openExternalInAppBrowser:  function () {
-		window.open("http://www.telerik.com", "_blank");
+		window.open("https://GoDigital.Accenture.com/Studio5", "_blank");
 	},
 
 	openExternalPDF:  function () {

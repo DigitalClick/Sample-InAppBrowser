@@ -34,7 +34,7 @@ Application.prototype = {
 	},
  
 	openExternalInAppBrowser:  function () {
-		window.open("https://GoDigital.Accenture.com/Studio5", "_blank");
+        window.open("https://GoDigital.Accenture.com/Studio5", "_blank", 'toolbar=no, location=no');
 	},
 
 	openExternalPDF:  function () {
